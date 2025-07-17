@@ -19,11 +19,18 @@
   <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" height="100" alt="AWS logo"  />
     <img src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" height="100" alt="AWS logo"  />
 
-
+https://images.credly.com/size/680x680/images/ea3eec65-ddad-4242-9c59-1defac0fa2d9/image.png
 
 
 ###
-  
+    
+<h1 align="center"> Certificações Coursera Google!</h1>
+
+<div align="center">
+  <img src="https://images.credly.com/size/680x680/images/ea3eec65-ddad-4242-9c59-1defac0fa2d9/image.png" height="100" alt="AWS logo"  />
+   
+
+###
   <img src="https://github.com/luciano-veiga/developer_100days/blob/main/1749601516959.jfif" height="650" alt="linkedin logo"  />
   <a href="https://www.linkedin.com/in/lucianoveiga-ti/" target="_blank">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
