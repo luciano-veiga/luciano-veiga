@@ -25,7 +25,8 @@
 <h1 align="center"> Certificações Coursera Google!</h1>
 
 <div align="center">
-  <img src="https://images.credly.com/size/680x680/images/ea3eec65-ddad-4242-9c59-1defac0fa2d9/image.png" height="100" alt="AWS logo"  />
+  <img src="https://images.credly.com/size/680x680/images/ea3eec65-ddad-4242-9c59-1defac0fa2d9/image.png" height="120" alt="AWS logo"  />
+   <img src="https://images.credly.com/images/975f4562-83b7-4652-9cd8-4490a68441be/image.png" height="120" alt="AWS logo"  />
    
 
 ###
