@@ -11,6 +11,12 @@
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" height="50" alt="Docker logo"  />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" height="50" alt="SQL logo"  />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Windows-Dark.svg" height="50" alt="Windows logo"  />
+   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" height="50" alt="Windows logo"  />
+   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" height="50" alt="Windows logo"  />
+   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Grafana-Dark.svg" height="50" alt="Windows logo"  />
+
+  
+  
 
   ###
 <h1 align="center"> Certificações AWS!</h1>
