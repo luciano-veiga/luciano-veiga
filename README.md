@@ -27,6 +27,33 @@
 
 
 ###
+  ###
+<h1 align="center"> Minhas Badges</h1>
+
+<div align="center">
+
+<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/ae59a1d8-5acf-4774-ab32-70e9231ce6eb" />
+<img width="100" height="100" alt="blob" src="https://github.com/user-attachments/assets/b5c3f1ed-1fdf-4393-ac85-040a12b1cd50" />
+<img width="100" height="100" alt="blob (2)" src="https://github.com/user-attachments/assets/09264be5-6a9b-416c-80e6-ebc5d5577dc8" />
+<img width="100" height="100" alt="blob (1)" src="https://github.com/user-attachments/assets/404dd7f9-1243-45e0-90bd-1ecb2147404d" />
+
+<img width="100" height="100" alt="blob (13)" src="https://github.com/user-attachments/assets/a283c8ad-046d-4127-88fd-f4d64204a9f7" />
+<img width="100" height="100" alt="blob (12)" src="https://github.com/user-attachments/assets/8055e98b-7694-49c8-830c-d134930bc4c7" />
+<img width="100" height="100" alt="blob (11)" src="https://github.com/user-attachments/assets/971d93e9-5ab0-472a-bb05-cea697bb7c41" />
+<img width="100" height="100" alt="blob (10)" src="https://github.com/user-attachments/assets/5f85bf68-6fea-442c-87f1-4eac50856b4b" />
+<img width="100" height="100" alt="blob (9)" src="https://github.com/user-attachments/assets/f7ef25bf-8a82-4959-86a1-e7cbc92999e1" />
+<img width="100" height="100" alt="blob (8)" src="https://github.com/user-attachments/assets/0e3ede41-824d-4186-b77e-878bf8af9f78" />
+<img width="100" height="100" alt="blob (7)" src="https://github.com/user-attachments/assets/37a1e7b3-8bb7-4a98-8348-a965c2c9f30f" />
+
+
+
+<img width="100" height="100" alt="blob (6)" src="https://github.com/user-attachments/assets/0df649b9-0073-4cb1-a48f-785e71966186" />
+<img width="100" height="100" alt="blob (5)" src="https://github.com/user-attachments/assets/41b6eccd-87ed-4fce-ab73-40bff4295fe3" />
+<img width="100" height="100" alt="blob (4)" src="https://github.com/user-attachments/assets/6d120ed1-15df-4fe5-a103-a5006c3de894" />
+<img width="100" height="100" alt="blob (3)" src="https://github.com/user-attachments/assets/a74b2bb8-f442-4ea3-99a9-9735b46a75f4" />
+
+
+###
     
 <h1 align="center"> Certificações Coursera Google!</h1>
 
