@@ -62,7 +62,8 @@
 <div align="center">
   <img src="https://images.credly.com/size/680x680/images/ea3eec65-ddad-4242-9c59-1defac0fa2d9/image.png" height="120" alt="AWS logo"  />
    <img src="https://images.credly.com/images/975f4562-83b7-4652-9cd8-4490a68441be/image.png" height="120" alt="AWS logo"  />
-   
+      <img src="https://images.credly.com/images/0ab768d9-dda0-439e-aeef-edfa6e0f3579/image.png" height="120" alt="AWS logo"  />
+
 
 ###
   <img src="https://github.com/luciano-veiga/developer_100days/blob/main/1749601516959.jfif" height="650" alt="linkedin logo"  />
