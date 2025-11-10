@@ -64,6 +64,9 @@
    <img src="https://images.credly.com/images/975f4562-83b7-4652-9cd8-4490a68441be/image.png" height="120" alt="AWS logo"  />
       <img src="https://images.credly.com/images/0ab768d9-dda0-439e-aeef-edfa6e0f3579/image.png" height="120" alt="AWS logo"  />
         <img src="https://images.credly.com/size/680x680/images/0bf0f2da-a699-4c82-82e2-56dcf1f2e1c7/image.png" height="120" alt="AWS logo"  />
+        <img src="https://github.com/user-attachments/assets/2ede7437-e475-4f5c-93df-a4dedcf6b1b2" height="120" alt="AWS logo"  />
+
+
 
 
 ###
