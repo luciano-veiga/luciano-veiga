@@ -68,6 +68,13 @@
 
 
 
+  ###
+<h1 align="center"> Programa Hackers do Bem </h1>
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/72c0fdfd-527c-45a9-aa3f-1486fbed05ce" height="120" alt="AWS logo"  />
+    <img src="https://github.com/user-attachments/assets/0131c756-cf99-42a8-a403-34d236e7d9c5" height="120" alt="AWS logo"  />
+
 
 ###
   <img src="https://github.com/luciano-veiga/developer_100days/blob/main/1749601516959.jfif" height="650" alt="linkedin logo"  />
