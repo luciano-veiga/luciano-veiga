@@ -77,8 +77,6 @@
 
 
 ###
-  <img src="https://github.com/luciano-veiga/developer_100days/blob/main/1749601516959.jfif" height="650" alt="linkedin logo"  />
-  <a href="https://www.linkedin.com/in/lucianoveiga-ti/" target="_blank">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
 </a>
 
@@ -93,8 +91,3 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
 </picture>
-
-###
-<h2 align="center"> Estudante de Analise e Desenvolvimento de Sistemas</h2>
-
-  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-ByhctfLBdCVJyO5eIv2z1ArD1mnjT53iWibpRNpbs2Ycw3fY2Y57yw3PsGejTh1zkBduAxl4_245AQSG-gycutZZCWoiKjusTGxEhIXI7v0Y1RmH9_DbyJonspgslR00JnAOtCwZgUc/s1600/anc3a1lise-e-desenvolvimento-de-sistemas.jpg" height="400" alt="AWS logo"  />
