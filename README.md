@@ -75,8 +75,12 @@
   <img src="https://github.com/user-attachments/assets/72c0fdfd-527c-45a9-aa3f-1486fbed05ce" height="120" alt="AWS logo"  />
     <img src="https://github.com/user-attachments/assets/0131c756-cf99-42a8-a403-34d236e7d9c5" height="120" alt="AWS logo"  />
 
+<img src="https://github.com/user-attachments/assets/93c432c8-5817-4d13-a23a-6ce3d8ec29c3" height="120" alt="AWS logo"  />
+
+<img src="https://github.com/user-attachments/assets/b74fabaa-4694-419b-a0fe-60eeaf2acdf6" height="120" alt="AWS logo"  />
 
 ###
+
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
 </a>
 
