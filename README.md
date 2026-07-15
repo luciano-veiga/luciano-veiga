@@ -1,6 +1,6 @@
 # Olá, eu sou o Luciano Veiga 👋
 
-Profissional de TI com base sólida em **Suporte e Infraestrutura**, construindo expertise em **Cloud (AWS)** e **Desenvolvimento**. Gosto de resolver problemas na raiz, automatizar o que é repetitivo e aprender a stack que sustenta aplicações modernas — do terminal Linux à nuvem.
+Profissional de TI com base sólida em **Suporte e Infraestrutura**, construindo expertise em **Cloud (AWS)** e **Desenvolvimento**. Gosto de resolver problemas na raiz, automatizar o que é repetitivo e aprender a stack que sustenta aplicações modernas do terminal Linux à nuvem.
 
 🎯 **Objetivo atual:** consolidar minha base em infraestrutura e evoluir para posições de Cloud/DevOps, construindo projetos práticos pelo caminho.
 
