@@ -40,15 +40,14 @@ Profissional de TI com base sólida em **Suporte e Infraestrutura**, construindo
 
 ## 🚀 Projetos em Destaque
 
-> 🚧 Seção em construção — os primeiros projetos práticos (Suporte/Infra → Cloud/DevOps) estão a caminho. Volte em breve!
+### 🔧 [devops-home-lab](https://github.com/luciano-veiga/devops-home-lab)
+Ambiente DevOps completo local, simulando uma infraestrutura real com **GitLab**, **Zabbix**, **Grafana** e uma AWS simulada (MiniStack), entre outras ferramentas.
 
-<!--
-Quando os projetos estiverem prontos, use este formato:
+### 🛡️ [devsecops-task-manager](https://github.com/luciano-veiga/devsecops-task-manager)
+Pipeline **DevSecOps** completo com **CI/CD**, **SAST**, **DAST** e monitoramento integrado — projeto desenvolvido no contexto do Hackers do Bem.
 
-### [Nome do Projeto](link-do-repo)
-Descrição curta (1-2 linhas) do problema que resolve e o resultado.
-`Tecnologias: AWS, Docker, Python`
--->
+### 📡 [isp-monitoring-dashboard](https://github.com/luciano-veiga/isp-monitoring-dashboard)
+Dashboard e API para consolidar a visão operacional de um provedor de internet (ISP): status de hosts, PoPs, torres, OLTs e core, indisponibilidades ativas, SLA/uptime e uso de links críticos, com integração nativa ao Zabbix.
 
 ---
 
