@@ -49,7 +49,8 @@ Pipeline **DevSecOps** completo com **CI/CD**, **SAST**, **DAST** e monitorament
 ### 📡 [isp-monitoring-dashboard](https://github.com/luciano-veiga/isp-monitoring-dashboard)
 Dashboard e API para consolidar a visão operacional de um provedor de internet (ISP): status de hosts, PoPs, torres, OLTs e core, indisponibilidades ativas, SLA/uptime e uso de links críticos, com integração nativa ao Zabbix.
 
----
+### ☁️ [aws-terraform-localstack-lab](https://github.com/luciano-veiga/aws-terraform-localstack-lab)
+Infraestrutura como código com **Terraform** provisionando VPC, EC2, S3 e IAM na AWS, testada de ponta a ponta contra o **LocalStack**. Zero custo, com foco em boas práticas de segurança (least privilege, sem exposição pública, criptografia em repouso).
 
 ## 📜 Certificações
 
