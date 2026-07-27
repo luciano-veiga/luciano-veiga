@@ -75,6 +75,7 @@ Infraestrutura como código com **Terraform** provisionando VPC, EC2, S3 e IAM n
 </p>
 
 ---
+![](https://komarev.com/ghpvc/?username=luciano-veiga&color=0e75b6)
 
 <p align="left">
   <i>Obrigado pela visita! Vamos nos conectar. 🚀</i>
