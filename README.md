@@ -41,16 +41,24 @@ Profissional de TI com base sólida em **Suporte e Infraestrutura**, construindo
 ## 🚀 Projetos em Destaque
 
 ### 🔧 [devops-home-lab](https://github.com/luciano-veiga/devops-home-lab)
-Ambiente DevOps completo local, simulando uma infraestrutura real com **GitLab**, **Zabbix**, **Grafana** e uma AWS simulada (MiniStack), entre outras ferramentas.
-
-### 🛡️ [devsecops-task-manager](https://github.com/luciano-veiga/devsecops-task-manager)
-Pipeline **DevSecOps** completo com **CI/CD**, **SAST**, **DAST** e monitoramento integrado — projeto desenvolvido no contexto do Hackers do Bem.
-
-### 📡 [isp-monitoring-dashboard](https://github.com/luciano-veiga/isp-monitoring-dashboard)
-Dashboard e API para consolidar a visão operacional de um provedor de internet (ISP): status de hosts, PoPs, torres, OLTs e core, indisponibilidades ativas, SLA/uptime e uso de links críticos, com integração nativa ao Zabbix.
+Ambiente DevOps completo local, simulando uma infraestrutura real com GitLab, Zabbix, Grafana e uma AWS simulada (MiniStack), entre outras ferramentas.
 
 ### ☁️ [aws-terraform-localstack-lab](https://github.com/luciano-veiga/aws-terraform-localstack-lab)
-Infraestrutura como código com **Terraform** provisionando VPC, EC2, S3 e IAM na AWS, testada de ponta a ponta contra o **LocalStack**. Zero custo, com foco em boas práticas de segurança (least privilege, sem exposição pública, criptografia em repouso).
+Infraestrutura como código com Terraform provisionando VPC, EC2, S3 e IAM na AWS, testada de ponta a ponta contra o LocalStack. Zero custo, com foco em boas práticas de segurança (least privilege, sem exposição pública, criptografia em repouso).
+
+### ☁️ [aws-infra-labs](https://github.com/luciano-veiga/aws-infra-labs)
+Laboratórios práticos de infraestrutura AWS com Terraform — VPC, EC2, IAM, S3, Lambda — mais um módulo Terraform reutilizável (`s3-secure`) e pipeline de CI com GitHub Actions.
+
+![Terraform CI](https://github.com/luciano-veiga/aws-infra-labs/actions/workflows/terraform-ci.yml/badge.svg)
+
+### 📊 [homelab-monitoring](https://github.com/luciano-veiga/homelab-monitoring)
+Stack de observabilidade (Prometheus + Grafana + Node Exporter) via Docker Compose, monitorando métricas reais de um servidor doméstico.
+
+### 🔒 [linux-hardening-toolkit](https://github.com/luciano-veiga/linux-hardening-toolkit)
+Scripts de hardening de segurança para Linux, com foco em SSH — testados em ambiente isolado para validar autenticação por chave.
+
+### ⚙️ [devops-automation-scripts](https://github.com/luciano-veiga/devops-automation-scripts)
+Scripts de automação para tarefas de sysadmin/DevOps, incluindo backup automatizado para S3 com rotação de arquivos antigos.
 
 ## 📜 Certificações
 
