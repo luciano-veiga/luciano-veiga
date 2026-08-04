@@ -69,10 +69,12 @@ Infraestrutura como código com **Terraform** provisionando VPC, EC2, S3 e IAM n
 
 ## 📊 GitHub Stats
 
-<p align="left">
+[![GitHub Streak](https://streak-stats.demolab.com/?user=luciano-veiga&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
-  <img src="https://streak-stats.demolab.com/?user=luciano-veiga" alt="GitHub Streak" height="165"/>
-</p>
+
+## 📊 Atividade no GitHub
+
+![Atividade no GitHub](https://github-readme-activity-graph.vercel.app/graph?username=luciano-veiga&bg_color=0d1117&color=39d353&line=00ffcc&point=ffffff&area=true&hide_border=true)
 
 ---
 ![](https://komarev.com/ghpvc/?username=luciano-veiga&color=0e75b6)
