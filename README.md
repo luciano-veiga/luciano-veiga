@@ -75,16 +75,13 @@ Scripts de automação para tarefas de sysadmin/DevOps, incluindo backup automat
 
 ---
 
-## 📊 GitHub Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=luciano-veiga&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+## 📊 GitHub Stats
+[![GitHub Streak](https://raw.githubusercontent.com/luciano-veiga/luciano-veiga/main/profile/streak-stats.svg)](https://git.io/streak-stats)
 
 ## 📊 Atividade no GitHub
+![Atividade no GitHub](https://raw.githubusercontent.com/luciano-veiga/luciano-veiga/main/profile/activity-graph.svg)
 
-![Atividade no GitHub](https://github-readme-activity-graph.vercel.app/graph?username=luciano-veiga&bg_color=0d1117&color=39d353&line=00ffcc&point=ffffff&area=true&hide_border=true)
-
----
-![](https://komarev.com/ghpvc/?username=luciano-veiga&color=0e75b6)
 
 <p align="left">
   <i>Obrigado pela visita! Vamos nos conectar. 🚀</i>
