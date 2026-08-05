@@ -94,21 +94,10 @@ Profissional de TI com base sólida em **Suporte e Infraestrutura**, construindo
 ---
 
 ## 📊 GitHub Stats
+[![GitHub Streak](https://raw.githubusercontent.com/luciano-veiga/luciano-veiga/main/profile/streak-stats.svg)](https://git.io/streak-stats)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=luciano-veiga&show_icons=true&theme=dark&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=luciano-veiga&layout=compact&theme=dark&hide_border=true)
-![GitHub Streak](https://streak-stats.demolab.com/?user=luciano-veiga&theme=dark&hide_border=true)
-
-<!-- Fallback: Profile Summary Cards (more reliable) -->
-![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luciano-veiga&theme=dark)
-![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=luciano-veiga&theme=dark)
-![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=luciano-veiga&theme=dark)
-
----
-
-## 📈 Atividade Recente
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=luciano-veiga&bg_color=1a1b27&color=39d353&line=00ffcc&point=ffffff&area=true&hide_border=true)
+## 📊 Atividade no GitHub
+![Atividade no GitHub](https://raw.githubusercontent.com/luciano-veiga/luciano-veiga/main/profile/activity-graph.svg)
 
 ---
 
