@@ -95,9 +95,14 @@ Profissional de TI com base sólida em **Suporte e Infraestrutura**, construindo
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=luciano-veiga&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=luciano-veiga&layout=compact&theme=tokyonight&hide_border=true)
-![GitHub Streak](https://streak-stats.demolab.com/?user=luciano-veiga&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=luciano-veiga&show_icons=true&theme=dark&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=luciano-veiga&layout=compact&theme=dark&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=luciano-veiga&theme=dark&hide_border=true)
+
+<!-- Fallback: Profile Summary Cards (more reliable) -->
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luciano-veiga&theme=dark)
+![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=luciano-veiga&theme=dark)
+![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=luciano-veiga&theme=dark)
 
 ---
 
