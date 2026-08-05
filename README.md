@@ -77,7 +77,7 @@ Scripts de automação para tarefas de sysadmin/DevOps, incluindo backup automat
 
 ## 📊 GitHub Stats
 
-(https://streak-stats.demolab.com/?user=luciano-veiga&theme=tokyonight&hide_border=true&v=2)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=luciano-veiga&theme=tokyonight&hide_border=true&v=2)](https://git.io/streak-stats)
 
 ## 📊 Atividade no GitHub
 
