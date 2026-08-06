@@ -20,15 +20,6 @@ Profissional de TI com base sólida em **Suporte e Infraestrutura**, construindo
 
 ---
 
-## 🏆 GitHub Achievements
-
-![Pull Shark](https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png)
-![Quickdraw](https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png)
-![YOLO](https://github.githubassets.com/assets/yolo-default-be0bbff04951.png)
-![Arctic Code Vault Contributor](https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png)
-
----
-
 ## 🛠️ Tech Stack
 
 ### Cloud & Infrastructure
