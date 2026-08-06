@@ -97,7 +97,8 @@ Aqui você encontrará laboratórios, estudos, projetos, automações e experime
 ---
 
 ## 📊 GitHub Stats
-[![GitHub Streak](https://raw.githubusercontent.com/luciano-veiga/luciano-veiga/main/profile/streak-stats.svg)](https://git.io/streak-stats)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=luciano-veiga&background=0d1117&border=39d353&stroke=00ffcc&ring=39d353&fire=00ffcc&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=39d353&sideLabels=ffffff&dates=8b949e&hide_border=true)](https://git.io/streak-stats)
 
 ## 📊 Atividade no GitHub
 ![Atividade no GitHub](https://raw.githubusercontent.com/luciano-veiga/luciano-veiga/main/profile/activity-graph.svg)
