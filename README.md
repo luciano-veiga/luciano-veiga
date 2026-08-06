@@ -1,10 +1,22 @@
 # Olá, eu sou o Luciano Veiga 👋
 
-Profissional de TI com base sólida em **Suporte e Infraestrutura**, construindo expertise em **Cloud (AWS)** e **Desenvolvimento**. Gosto de resolver problemas na raiz, automatizar o que é repetitivo e aprender a stack que sustenta aplicações modernas do terminal Linux à nuvem.
+Profissional de Tecnologia da Informação com experiência em Infraestrutura, Redes, Suporte e Gestão de TI, expandindo continuamente minha atuação em Cloud Computing (AWS), automação e desenvolvimento.
 
-🎯 **Objetivo atual:** Consolidar minha base em infraestrutura e evoluir para posições de **Cloud/DevOps/SRE**, construindo projetos práticos pelo caminho.
+Acredito que tecnologia deve resolver problemas reais. Por isso, gosto de entender a causa dos desafios, automatizar processos repetitivos e construir soluções escaláveis, da administração de ambientes Linux e redes até arquiteturas em nuvem.
 
-📍 Aberto a oportunidades e conexões na área de TI.
+💡 Atualmente estudo e desenvolvo projetos práticos envolvendo:
+
+Cloud Computing (AWS)
+Linux e Automação
+Redes e Infraestrutura
+Containers e Virtualização
+DevOps e Observabilidade
+
+🎯 Meu objetivo é evoluir para desafios em Cloud, DevOps e SRE, unindo a experiência adquirida em infraestrutura tradicional às práticas modernas de engenharia de plataformas.
+
+Aqui você encontrará laboratórios, estudos, projetos, automações e experimentos que fazem parte da minha evolução contínua.
+
+📍 Sempre aberto a aprender, compartilhar conhecimento e construir conexões com profissionais de tecnologia.
 
 <p align="left">
   <a href="https://www.linkedin.com/in/lucianoveiga-ti/" target="_blank">
