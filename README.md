@@ -1,5 +1,7 @@
 # Olá, eu sou o Luciano Veiga 👋
 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Network+%26+Infrastructure+Manager;ISP+%7C+Cloud+%7C+DevOps;AWS+Certified+Solutions+Architect;Construindo+solu%C3%A7%C3%B5es+em+SecDevOps)](https://git.io/typing-svg)
+
 Profissional de Tecnologia da Informação com experiência em Infraestrutura, Redes, Suporte e Gestão de TI, expandindo continuamente minha atuação em Cloud Computing (AWS), automação e desenvolvimento.
 
 Acredito que tecnologia deve resolver problemas reais. Por isso, gosto de entender a causa dos desafios, automatizar processos repetitivos e construir soluções escaláveis, da administração de ambientes Linux e redes até arquiteturas em nuvem.
