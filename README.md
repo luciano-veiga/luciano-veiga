@@ -122,3 +122,5 @@ Aqui você encontrará laboratórios, estudos, projetos, automações e experime
 <p align="center">
   <i>Obrigado pela visita! Vamos nos conectar. 🚀</i>
 </p>
+
+![trophy](./trophy.svg)
