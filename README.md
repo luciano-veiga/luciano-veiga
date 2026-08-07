@@ -124,3 +124,5 @@ Aqui você encontrará laboratórios, estudos, projetos, automações e experime
 </p>
 
 ![trophy](./trophy.svg)
+
+![trophy](./trophy.svg)
