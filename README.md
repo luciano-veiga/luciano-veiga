@@ -102,9 +102,6 @@ Aqui você encontrará laboratórios, estudos, projetos, automações e experime
 
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=luciano-veiga&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 📊 GitHub Stats
-
-[![GitHub Streak](https://raw.githubusercontent.com/luciano-veiga/luciano-veiga/main/profile/streak-stats.svg)](https://github.com/luciano-veiga)
 
 ## 📊 GitHub Stats
 
