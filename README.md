@@ -1,10 +1,63 @@
-# Olá, eu sou o Luciano Veiga 👋
+# Olá, sou o Luciano Veiga 👋
+[#ola-eu-sou-o-luciano](#ola-eu-sou-o-luciano)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Network+%26+Infrastructure+Manager;ISP+%7C+Cloud+%7C+DevOps;AWS+Certified+Solutions+Architect;Construindo+solu%C3%A7%C3%B5es+em+SecDevOps)](https://git.io/typing-svg)
+
+
+
+## Sobre Mim 👨‍💻
 
 Profissional de Tecnologia da Informação com experiência em Infraestrutura, Redes, Suporte e Gestão de TI, expandindo continuamente minha atuação em Cloud Computing (AWS), automação e desenvolvimento.
 
 Acredito que tecnologia deve resolver problemas reais. Por isso, gosto de entender a causa dos desafios, automatizar processos repetitivos e construir soluções escaláveis, da administração de ambientes Linux e redes até arquiteturas em nuvem.
+
+Redes, servidores e infra que não podem cair.
+
+### 🌐 ISP & Redes
+
+[#-isp--redes](#-isp--redes)
+
+- 📡 Gerencio a operação de um ISP (provedor de internet)
+- 🎧 Já passei pelo NOC, então sei o que é resolver problema com o cliente online e o rádio caindo
+- 📶 Experiência prática com MikroTik (RouterOS, BGP, roteamento, QoS)
+- 🏗️ Montagem e manutenção física de hacks de datacenter (cabeamento, energia, climatização, organização de sala)
+
+### 🏠 Homelab & Infraestrutura
+
+[#-homelab--infraestrutura](#-homelab--infraestrutura)
+
+- 🔧 Mantenho um homelab estruturado para testar e validar antes de levar pra produção
+- 🐳 Orquestração de containers com Docker
+- ☁️ Expandindo conhecimento em AWS (migração de workloads on-prem/homelab para nuvem)
+- 🔄 Automatizando o que antes era manual de provisionamento a configuração
+
+### 💻 Desenvolvimento
+
+[#-desenvolvimento](#-desenvolvimento)
+
+- 🛠️ Construo ferramentas para resolver problema de infra, não só configuro na mão
+* 📦 Projeto atual: [RouterForge NOC](https://github.com/luciano-veiga/mikrotik-failover-generator)  gerador web de scripts `.rsc` para MikroTik com failover automático entre até 3 links WAN, 100% client-side (HTML/CSS/JS puro, sem backend)
+## 🚀 Objetivos Atuais
+
+[#-objetivos-atuais](#-objetivos-atuais)
+
+- ☁️ Aprofundar AWS e arquiteturas híbridas (homelab + nuvem)
+- 🐋 Evoluir para Kubernetes, saindo do Docker puro
+- 📊 Implementar monitoramento de meu HomeLAB (Grafana + Prometheus) já uso essas ferramentas na operação do ISP
+- 📝 Documentar mais o que já sei na prática de config de MikroTik a decisões de arquitetura de datacenter
+
+## 🛠️ Tecnologias
+
+[#-tecnologias](#-tecnologias)
+
+- 🌐 **Redes:** MikroTik/RouterOS, BGP, montagem de datacenter
+- ☁️ **Cloud:** AWS
+- 🐳 **Infra:** Docker, IaC (em evolução)
+- 💻 **Dev:** C#, ASP.NET Core, VueJS
+- 🐧 **SO:** Linux
+
+## 📚 Estudo
+[#-Estudo](#-estudo)
 
 💡 Atualmente estudo e desenvolvo projetos práticos envolvendo:
 
@@ -13,6 +66,8 @@ Linux e Automação
 Redes e Infraestrutura
 Containers e Virtualização
 DevOps e Observabilidade
+Python e Automação com IA
+Agentes de IA e Automação de Fluxos (n8n)
 
 🎯 Meu objetivo é evoluir para desafios em Cloud, DevOps e SRE, unindo a experiência adquirida em infraestrutura tradicional às práticas modernas de engenharia de plataformas.
 
@@ -33,40 +88,6 @@ Aqui você encontrará laboratórios, estudos, projetos, automações e experime
 </p>
 
 ---
-
-## 🛠️ Tech Stack
-
-### Cloud & Infrastructure
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?style=flat-square&logo=terraform&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=flat-square&logo=kubernetes&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=flat-square&logo=linux&logoColor=black)
-![LocalStack](https://img.shields.io/badge/LocalStack-%23000000.svg?style=flat-square&logo=localstack&logoColor=white)
-
-### CI/CD & Automation
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%232671E5.svg?style=flat-square&logo=github-actions&logoColor=white)
-![GitLab CI](https://img.shields.io/badge/GitLab_CI-%23FC6D26.svg?style=flat-square&logo=gitlab&logoColor=white)
-![ArgoCD](https://img.shields.io/badge/ArgoCD-%23EF7B4D.svg?style=flat-square&logo=argocd&logoColor=white)
-![Shell Script](https://img.shields.io/badge/Shell_Script-%23121011.svg?style=flat-square&logo=gnu-bash&logoColor=white)
-
-### Observability & Monitoring
-![Prometheus](https://img.shields.io/badge/Prometheus-%23E6522C.svg?style=flat-square&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-%23F46800.svg?style=flat-square&logo=grafana&logoColor=white)
-![Zabbix](https://img.shields.io/badge/Zabbix-%23FC8D18.svg?style=flat-square&logo=zabbix&logoColor=white)
-![Alertmanager](https://img.shields.io/badge/Alertmanager-%23E6522C.svg?style=flat-square&logo=prometheus&logoColor=white)
-
-### Programming & Scripting
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat-square&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=flat-square&logo=go&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black)
-![HCL](https://img.shields.io/badge/HCL-%235835CC.svg?style=flat-square&logo=terraform&logoColor=white)
-
-### Security
-![Trivy](https://img.shields.io/badge/Trivy-%23196EBB.svg?style=flat-square&logo=trivy&logoColor=white)
-![Semgrep](https://img.shields.io/badge/Semgrep-%232D2D2D.svg?style=flat-square&logo=semgrep&logoColor=white)
-![OpenSCAP](https://img.shields.io/badge/OpenSCAP-%23000000.svg?style=flat-square&logo=redhat&logoColor=white)
-![Checkov](https://img.shields.io/badge/Checkov-%23000000.svg?style=flat-square&logo=bridgecrew&logoColor=white)
 
 ---
 
@@ -118,11 +139,3 @@ Aqui você encontrará laboratórios, estudos, projetos, automações e experime
 ![](https://komarev.com/ghpvc/?username=luciano-veiga&color=0e75b6&style=flat-square)
 
 ---
-
-<p align="center">
-  <i>Obrigado pela visita! Vamos nos conectar. 🚀</i>
-</p>
-
-![trophy](./trophy.svg)
-
-![trophy](./trophy.svg)
