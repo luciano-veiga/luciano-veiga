@@ -125,7 +125,8 @@ Aqui você encontrará laboratórios, estudos, projetos, automações e experime
 
 
 ## 📊 GitHub Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=luciano-veiga&theme=dark&locale=pt_BR)](https://git.io/streak-stats)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=luciano-veiga&theme=dark&locale=pt)](https://git.io/streak-stats)
 
 ---
 
