@@ -134,6 +134,14 @@ Aqui você encontrará laboratórios, estudos, projetos, automações e experime
 ## 📊 Atividade no GitHub
 ![Atividade no GitHub](https://raw.githubusercontent.com/luciano-veiga/luciano-veiga/main/profile/activity-graph.svg)
 
+### 🐍 Contribuições em movimento
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/luciano-veiga/luciano-veiga/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/luciano-veiga/luciano-veiga/output/github-snake.svg" />
+  <img alt="Animação das contribuições no GitHub" src="https://raw.githubusercontent.com/luciano-veiga/luciano-veiga/output/github-snake.svg" />
+</picture>
+
 
 
 ## 👀 Profile Views
