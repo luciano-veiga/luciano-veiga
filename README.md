@@ -56,6 +56,14 @@ Redes, servidores e infra que não podem cair.
 - 💻 **Dev:** C#, ASP.NET Core, VueJS
 - 🐧 **SO:** Linux
 
+**Formação**
+
+- Análise e Desenvolvimento de Sistemas (ADS) · UniCesumar · concluído
+
+**SecDevOps**
+
+- Especialização em DevSecOps · Hackers do Bem (SENAI/RNP/Softex) · [ver credencial](https://ava.hackersdobem.org.br/badges/badge.php?hash=16bc087f9be93648f38c16b92b1afed061505b1e)
+
 ## 📚 Estudo
 [#-Estudo](#-estudo)
 
