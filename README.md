@@ -150,6 +150,7 @@ Aqui você encontrará laboratórios, estudos, projetos, automações e experime
   <img alt="Animação das contribuições no GitHub" src="https://raw.githubusercontent.com/luciano-veiga/luciano-veiga/output/github-snake.svg" />
 </picture>
 
+![Metrics](./metrics.plugin.reactions.svg)
 
 
 ## 👀 Profile Views
