@@ -19,11 +19,17 @@ jobs:
 
       - name: Baixar Activity Graph
         run: |
-          curl -sf "https://github-readme-activity-graph.vercel.app/graph?username=luciano-veiga&bg_color=0d1117&color=39d353&line=00ffcc&point=ffffff&area=true&hide_border=true" -o profile/activity-graph.svg
+          curl -sf --retry 3 --retry-delay 5 \
+            "https://github-readme-activity-graph.vercel.app/graph?username=luciano-veiga&bg_color=0d1117&color=39d353&line=00ffcc&point=ffffff&area=true&hide_border=true" \
+            -o profile/activity-graph.tmp.svg && mv profile/activity-graph.tmp.svg profile/activity-graph.svg || \
+            echo "⚠️ Activity Graph indisponível hoje, mantendo versão anterior"
 
-      - name: Baixar GitHub Stats
+      - name: Baixar GitHub Stats (Streak)
         run: |
-          curl -sf "https://streak-stats.demolab.com/?user=luciano-veiga&theme=tokyonight&hide_border=true" -o profile/streak-stats.svg
+          curl -sf --retry 3 --retry-delay 5 \
+            "https://streak-stats.demolab.com/?user=luciano-veiga&theme=tokyonight&hide_border=true" \
+            -o profile/streak-stats.tmp.svg && mv profile/streak-stats.tmp.svg profile/streak-stats.svg || \
+            echo "⚠️ Streak Stats indisponível hoje, mantendo versão anterior"
 
       - name: Commitar SVGs atualizados
         run: |
