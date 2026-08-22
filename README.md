@@ -134,8 +134,7 @@ Aqui você encontrará laboratórios, estudos, projetos, automações e experime
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=luciano-veiga&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff9f&icon_color=00ff9f&text_color=c9d1d9)
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=luciano-veiga&theme=dark&hide_border=true&locale=pt)](https://git.io/streak-stats)
 
 [![Update Profile Graphs](https://github.com/luciano-veiga/luciano-veiga/actions/workflows/update-graph.yml/badge.svg)](https://github.com/luciano-veiga/luciano-veiga/actions/runs/32444152021)
 
