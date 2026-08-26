@@ -48,13 +48,18 @@ Redes, servidores e infra que não podem cair.
 
 ## 🛠️ Tecnologias
 
-[#-tecnologias](#-tecnologias)
+## 🛠️ Tecnologias
 
-- 🌐 **Redes:** MikroTik/RouterOS, BGP, montagem de datacenter
-- ☁️ **Cloud:** AWS
-- 🐳 **Infra:** Docker, IaC (em evolução)
-- 💻 **Dev:** C#, ASP.NET Core, VueJS
-- 🐧 **SO:** Linux
+- 🌐 **Networking:** MikroTik/RouterOS, BGP, TCP/IP, VLAN, VPN, QoS, DHCP, DNS, IPv4/IPv6
+- ☁️ **Cloud:** AWS (EC2, S3, IAM, VPC, Lambda, API Gateway, CloudWatch)
+- 🏗️ **Infrastructure as Code:** Terraform, LocalStack
+- 🐳 **Containers:** Docker, Docker Compose, Kubernetes
+- 🔄 **CI/CD & DevOps:** GitHub Actions, GitLab CI/CD, Git, Linux Automation
+- 📊 **Observability:** Zabbix, Prometheus, Grafana, Alertmanager
+- 🐧 **Operating Systems:** Linux (Ubuntu, Debian, RHEL), Windows Server
+- 🔐 **Security:** DevSecOps, SAST, DAST, Trivy, Semgrep, OWASP ZAP, Linux Hardening
+- 💻 **Programming & Automation:** Python, Shell Script, C#
+- 🗄️ **Databases:** PostgreSQL, MySQL
 
 **Formação**
 
