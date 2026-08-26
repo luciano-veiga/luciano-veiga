@@ -150,8 +150,6 @@ Aqui você encontrará laboratórios, estudos, projetos, automações e experime
 ![Atividade no GitHub](https://raw.githubusercontent.com/luciano-veiga/luciano-veiga/main/profile/activity-graph.svg)
 
 
-## 👀 Profile Views
-
 ![](https://komarev.com/ghpvc/?username=luciano-veiga&color=0e75b6&style=flat-square)
 
 ---
