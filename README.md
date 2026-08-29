@@ -141,6 +141,7 @@ Aqui você encontrará laboratórios, estudos, projetos, automações e experime
 
 [![GitHub Streak](https://raw.githubusercontent.com/luciano-veiga/luciano-veiga/main/profile/streak-stats.svg)](https://git.io/streak-stats)
 
+
 [![Update Profile Graphs](https://github.com/luciano-veiga/luciano-veiga/actions/workflows/update-graph.yml/badge.svg)](https://github.com/luciano-veiga/luciano-veiga/actions/runs/32444152021)
 
 ---
