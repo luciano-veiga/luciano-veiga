@@ -1,5 +1,6 @@
 # Hi there, I'm Luciano Veiga 👋
 
+
 **Cloud & DevSecOps Engineer | AWS Certified (SAA-C02) | Infrastructure & Observability Specialist**
 
 I specialize in bridging traditional network operations (NOC/Datacenter) with modern Cloud & DevSecOps engineering. With hands-on experience in RouterOS/MikroTik, Linux, and Data Center infrastructure, I build scalable, secure, and observable cloud environments.
