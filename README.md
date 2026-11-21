@@ -16,8 +16,8 @@ Redes, servidores e infra que não podem cair.
 
 ### 🌐 ISP & Redes
 
-- 📡 Gerencio a operação de um ISP (provedor de internet)
-- 🎧 Já passei pelo NOC, então sei o que é resolver problema com o cliente online e o rádio caindo
+- 📡 Noc N2
+- 🎧 Experiência em Gerenciamento de Equipes tecnica e administrativa
 - 📶 Experiência prática com MikroTik (RouterOS, BGP, roteamento, QoS)
 - 🏗️ Montagem e manutenção física de hacks de datacenter (cabeamento, energia, climatização, organização de sala)
 
