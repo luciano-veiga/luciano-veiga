@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="150"
+     viewBox="0 0 1200 150" role="img" aria-label="luciano-veiga, DevOps e Cloud">
+  <style>
+    .name { font: 600 58px ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, monospace; fill: #e6edf3 }
+    .sub  { font: 400 19px ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, monospace; fill: #8b949e }
+    .cur  { fill: #e6edf3; animation: blink 1.15s steps(1) infinite }
+    @keyframes blink { 0%, 55% { opacity: 1 } 56%, 100% { opacity: 0 } }
+  </style>
+  <text class="name" x="0" y="74" textLength="452" lengthAdjust="spacing">luciano-veiga</text>
+  <rect class="cur" x="464" y="34" width="15" height="46" rx="2"/>
+  <text class="sub" x="2" y="116">Supervisor de TI · DevOps · AWS · Infra de provedor</text>
+  <rect x="2"   y="136" width="120" height="3" rx="1.5" fill="#e6edf3" opacity="0.9"/>
+  <rect x="126" y="136" width="46"  height="3" rx="1.5" fill="#e6edf3" opacity="0.45"/>
+  <rect x="176" y="136" width="18"  height="3" rx="1.5" fill="#e6edf3" opacity="0.2"/>
+</svg>
