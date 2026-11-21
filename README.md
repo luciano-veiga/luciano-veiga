@@ -7,6 +7,7 @@
 
 ## Sobre Mim 👨‍💻
 
+
 Profissional de Tecnologia da Informação com experiência em Infraestrutura, Redes, Suporte e Gestão de TI, expandindo continuamente minha atuação em Cloud Computing (AWS), automação e desenvolvimento.
 
 Acredito que tecnologia deve resolver problemas reais. Por isso, gosto de entender a causa dos desafios, automatizar processos repetitivos e construir soluções escaláveis, da administração de ambientes Linux e redes até arquiteturas em nuvem.
