@@ -1,6 +1,6 @@
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="assets/header-light.svg">
-  <img src="assets/header-dark.svg" alt="luciano-veiga" width="100%">
+<img src="assets/header-dark.svg?v=2" alt="luciano-veiga" width="100%">
 </picture>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Network+%26+Infrastructure+Manager;ISP+%7C+Cloud+%7C+DevOps;AWS+Certified+Solutions+Architect;Construindo+solu%C3%A7%C3%B5es+em+SecDevOps)](https://git.io/typing-svg)
