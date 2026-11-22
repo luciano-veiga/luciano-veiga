@@ -107,6 +107,19 @@ Aqui você encontrará laboratórios, estudos, projetos, automações e experime
 
 ---
 
+
+
+## 📊 Stats
+
+[![Profile details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luciano-veiga&theme=github_dark)](https://github.com/luciano-veiga)
+
+[![Repos per language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=luciano-veiga&theme=github_dark)](https://github.com/luciano-veiga)
+[![Most commit language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=luciano-veiga&theme=github_dark)](https://github.com/luciano-veiga)
+
+[![Streak](https://streak-stats.demolab.com?user=luciano-veiga&theme=github-dark&hide_border=true)](https://github.com/luciano-veiga)
+
+
+
 ## 💻 Linguagens Mais Utilizadas
 
 ![Top Langs](https://github-readme-stats.shion.dev/api/top-langs/?username=luciano-veiga&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
